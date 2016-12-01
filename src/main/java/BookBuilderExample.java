@@ -28,6 +28,7 @@ public class BookBuilderExample {}
             private String publisher;
             private int year;
             private final String autor;
+            private int ooo = 0;
             private final String bookName;
 
             public BookBuilder(String bookName, String autor) {
